@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Button, ButtonProps } from "@/components/ui/button";
+import { Button, ButtonProps } from "./button";
 import { cn } from "@/lib/utils";
 import { CSSProperties } from "react";
 
