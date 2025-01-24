@@ -1,5 +1,5 @@
 import styles from "./auth.module.scss";
-import { IconButton } from "./button";
+import { IconButton } from "./ui/icon-button";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Path, SAAS_CHAT_URL } from "../constant";
